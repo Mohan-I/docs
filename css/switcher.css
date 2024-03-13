@@ -1,0 +1,244 @@
+.demo_changer{
+    z-index: 9999;
+    position: fixed;
+    left: -320px;
+    top: 300px;
+}
+
+.demo_changer .styleswitch,
+.demo_changer .patternswitch,
+.demo_changer .bgimageswitch {
+    margin: 0 3px 3px 0;
+    display: inline-block;
+    background: #233859;
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+}
+
+.demo_changer .patternswitch:nth-child( 4n ) {
+    margin-right: 0;
+}
+
+.demo_changer .styleswitch {
+    width: 45px;
+    height: 45px;
+    border-radius: 0;
+    border-top: 25px solid transparent;
+    border-bottom: 25px solid #f0e246;
+    border-right: 25px solid #f0e246;
+    border-left: 25px solid transparent;
+    margin-right: 3px;
+    margin-bottom: 2px;
+}
+
+.demo_changer .styleswitch:nth-child( 5n ) {
+    margin-right: 0;
+}
+
+
+.demo_changer .line {
+    border-bottom: 1px solid #efefef;
+    clear: both;
+    margin: 20px !important;
+}
+
+
+.demo_changer span a {color:#7F7F7F;
+	font-weight: 300;
+	padding: 0;
+	font-size:11px;
+	margin: 20px;
+	text-align: center;
+	line-height: 1.5;
+}
+
+
+.demo_changer span a:hover,
+.demo_changer span a:active {opacity:1; color:#7F7F7F;
+}
+
+
+.demo_changer .demo-icon{
+    /*background: url(../img/switcher/color.png) no-repeat scroll 4px 0 #fff;*/
+    /*box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);*/
+    cursor: pointer;
+    float: right;
+    height: 45px;
+    width: 45px;
+    text-align:  center;
+    line-height: 45px;
+    background: #424242;
+    font-size: 28px;
+    color: white;
+    z-index:  9999;
+}
+
+.demo_changer .form_holder p {color:#7F7F7F;}
+.demo_changer .form_holder {
+	background: #fff;
+    float: right;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+    width: 320px;
+}
+
+
+.demo_changer .demo-title {
+    font-size: 22px;
+    color: #243f6a;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+.demo_changer .form_holder p{
+    padding:0 20px;
+    font-size: 18px;
+    color: #243f6a;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-weight: 700;
+}
+
+.demo_changer .form_holder input{
+    width: 55px;
+	border-radius: 0 10px 10px 0;
+	box-shadow: none;
+}
+
+.demo_changer .form_holder form{
+    padding: 0 20px;
+}
+
+.demo_changer .predefined_styles{
+    padding:0 20px;
+    text-align: center;
+}
+
+.demo_changer .predefined-layout a{
+    width: 50%;
+    float: left;
+    padding-right: 10px;
+}
+.demo_changer .predefined-layout a img {
+    border: 5px solid transparent;
+}
+
+
+.demo_changer .predefined-layout a#btn-boxed{
+    width: 50%;
+    float: left;
+    padding-left: 10px;
+    padding-right: 0;
+}
+
+.demo_changer .predefined-layout a.actived img {
+    border-color: #f0e246;
+}
+
+@media only screen and (max-width: 991px) {
+    .boxed .vc_row.row-full-width{
+       width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .demo_changer{
+        display: none;
+    }
+}
+
+
+/*Style RTL Test*/
+
+
+.demo_changer .form_holder label {
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+    cursor: pointer;
+}
+
+.demo_changer .form_holder .left {
+    float: left;
+    padding-left: 20px;
+}
+
+.demo_changer .form_holder .right {
+    float: right;
+    padding-right: 20px;
+}
+
+.demo_changer .form_holder .control-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #222;
+    display: inline-block;
+    padding-top: 5px;
+}
+
+.demo_changer .form_holder .toggle {
+    position: relative;
+    width: 80px;
+    height: 33px;
+    background-color: #363636;
+    display: inline-block;
+    border-radius: 32px;
+    transition: 0.5s;
+}
+
+.demo_changer .form_holder .toggle:after  {
+    position: absolute;
+    content: "";
+    width: 33px;
+    height: 33px;
+    background-color: #ccc;
+    border-radius: 50%;
+    top: 0;
+    right: 0;
+    transition: 0.5s;
+}
+
+.rtl .demo_changer .form_holder .toggle:after {
+    right: 48px;
+}
+
+.header-v1 #cargo-search-widget-2,
+.header-v1 #cargohub-social-links-widget-3,
+.header-v1 #recent-posts-widget-2,
+.header-v1 #text-13,
+.header-v1 #text-14,
+.header-v2 #cargo-search-widget-2,
+.header-v2 #cargohub-social-links-widget-3,
+.header-v2 #recent-posts-widget-2,
+.header-v2 #text-13,
+.header-v2 #text-14,
+.header-v3 #cargo-search-widget-3,
+.header-v3 #cargohub-social-links-widget-4,
+.header-v3 #latest-project-widget-2,
+.header-v3 #cargo-office-location-widget-2,
+.header-v4 #cargohub-social-links-widget-4,
+.header-v4 #latest-project-widget-2,
+.header-v4 #cargo-search-widget-2,
+.header-v4 #cargo-search-widget-3,
+.header-v4 #cargo-office-location-widget-2 {
+    display: none;
+}
+
+.header-v3 .site-footer .footer-copyright,
+.header-v4 .site-footer .footer-copyright {
+    float: right;
+    text-align: right;
+}
+
+.header-v3 .site-footer .footer-text,
+.header-v4 .site-footer .footer-text {
+    text-align: left;
+}
+
+@media (max-width: 991px) {
+    .site-footer .footer-copyright,
+    .site-footer .footer-text {
+        float: none;
+        text-align: center;
+    }
+}

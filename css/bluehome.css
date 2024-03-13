@@ -1,0 +1,313 @@
+/*Background Color: */
+
+.main-background-color,
+.header-v4 .nav ul.menu > li > a:after,
+.numeric-navigation .page-numbers:hover,
+.numeric-navigation .page-numbers.current,
+.project-nav-ajax nav.numeric-navigation .page-numbers.next:hover,
+.project-nav-ajax nav.numeric-navigation .page-numbers.next:focus,
+.primary-mobile-nav .menu-item-button-link a,
+.fh-btn,
+.fh-btn:hover,
+.fh-btn:focus,
+.entry-time,
+.post-author .box-title:after,
+.socials-share a:hover,
+.single-service blockquote:before,
+.single-project .single-project-title:before,
+.project-wrapper .project-thumbnail .project-button .button-link:hover,
+.comments-title:after,
+.comment-reply-title:after,
+.comment-respond .form-submit .submit,
+.comment-respond .form-submit .submit:hover,
+.comment-respond .form-submit .submit:focus,
+.widget .widget-title:after,
+.widget_tag_cloud a:hover,
+.tabs-widget .tabs-nav li a.active,
+.download .item-download:hover,
+.service-sidebar .services-menu-widget ul li:hover,
+.service-sidebar .services-menu-widget ul li.current-menu-item,
+.cargohub-social-links-widget .style-2 a:hover,
+.latest-project-widget .widget-thumb:before,
+.footer-widgets .fh-form-field .subscribe input[type="submit"],
+.fh-section-title h2:before,
+.fh-icon-box.style-2:hover .fh-icon,
+.fh-contact-box ul li:hover,
+.fh-latest-post.carousel .owl-nav div:hover,
+.fh-counter h4,
+.fh-testimonials-carousel .owl-dots .owl-dot:hover span,
+.fh-testimonials-carousel .owl-dots .owl-dot.active span,
+.fh-price-table.promoted .table-header,
+.fh-price-table:hover .table-header,
+.fh-price-table.promoted .table-content a,
+.fh-price-table:hover .table-content a,
+.fh-service .entry-thumbnail .icon,
+.fh-service.style-flat .entry-title:after,
+.fh-team .team-member ul li,
+.fh-team .owl-nav div:hover,
+.fh-team .owl-dots .owl-dot:hover span,
+.fh-team .owl-dots .owl-dot.active span,
+.custom-quote.quote-project blockquote:after,
+.cargo-arrow:hover,
+.fh-service-box-2.box-style-2 .box-thumb:before,
+.fh-icon-box.version-light:hover:before,
+.services-menu-widget ul li:hover,
+.services-menu-widget ul li.current-menu-item {
+    background-color: #434344;
+}
+
+.ch_button:hover,
+.tp-caption.ch_button:hover {
+    background-color: #050505 !important;
+}
+
+
+/*Border Color: */
+
+.numeric-navigation .page-numbers:hover,
+.numeric-navigation .page-numbers.current,
+.project-nav-ajax nav.numeric-navigation .page-numbers.next:hover,
+.project-nav-ajax nav.numeric-navigation .page-numbers.next:focus,
+.service:hover .service-inner,
+.single-project .entry-thumbnail .owl-dots .owl-dot:hover span,
+.single-project .entry-thumbnail .owl-dots .owl-dot.active span,
+.project-wrapper .project-thumbnail .project-button .button-link:hover,
+.download .item-download:hover,
+.service-sidebar .services-menu-widget ul li:hover,
+.service-sidebar .services-menu-widget ul li.current-menu-item,
+.cargohub-social-links-widget .style-2 a:hover,
+.fh-icon-box.style-2:hover .fh-icon,
+.fh-service-box.style-1:hover,
+.fh-latest-post.carousel .owl-nav div:hover,
+.fh-testimonials-carousel .owl-dots .owl-dot:hover span,
+.fh-testimonials-carousel .owl-dots .owl-dot.active span,
+.fh-testimonials-carousel .owl-nav div:hover,
+.fh-price-table.promoted .table-content,
+.fh-price-table:hover .table-content,
+.fh-price-table.promoted .table-content a,
+.fh-price-table:hover .table-content a,
+.fh-team .owl-dots .owl-dot:hover span,
+.fh-team .owl-dots .owl-dot.active span,
+.service-tabs .vc_tta-tabs-list li:hover a,
+.service-tabs .vc_tta-tabs-list li.vc_active a,
+.backtotop,
+.services-menu-widget ul li:hover,
+.services-menu-widget ul li.current-menu-item {
+    border-color: #080808
+}
+
+.ch_button:hover,
+.tp-caption.ch_button:hover {
+    border-color: #010101 !important;
+}
+
+blockquote {
+    border-left-color: #070707 !important;
+}
+
+
+/*Color: */
+
+.socials a:hover,
+.main-color,
+.fh-form span.require,
+.track-form span.start:after,
+.track-form span.end:after,
+.topbar .widget .topbar-contact i,
+.topbar .topbar-socials li:hover a,
+.topbar .cargohub-social-links-widget a:hover,
+.header-v3 .site-header-widget .widget h4,
+.header-v4 .site-header-widget .widget h4,
+.nav ul.menu > li:hover > a,
+.nav ul.menu > li.current-menu-item > a,
+.nav ul.menu > li.current-menu-parent > a,
+.nav ul.menu > li.current_page_item > a,
+.nav div.menu > ul > li.current-menu-item > a,
+.nav div.menu > ul > li.current-menu-parent > a,
+.nav div.menu > ul > li.current_page_item > a,
+.nav div.menu > ul > li.current_page_parent > a,
+.nav div.menu > ul > li:hover > a,
+.nav .menu li.extra-menu-item.menu-item-search .toggle-search,
+.header-sticky .site-header.minimized .nav .menu > li:hover > a,
+.header-sticky .site-header.minimized .nav .menu > li.current-menu-item > a,
+.header-sticky .site-header.minimized .nav .menu > li.current-menu-parent > a,
+.header-sticky.header-v3 .site-header.minimized .nav .menu > li:hover > a,
+.header-sticky.header-v4 .site-header.minimized .nav .menu > li:hover > a,
+.header-sticky.header-v3 .site-header.minimized .nav .menu > li.current-menu-item > a,
+.header-sticky.header-v4 .site-header.minimized .nav .menu > li.current-menu-item > a,
+.header-sticky.header-v3 .site-header.minimized .nav .menu > li.current-menu-parent > a,
+.header-sticky.header-v4 .site-header.minimized .nav .menu > li.current-menu-parent > a,
+.post-navigation a:hover,
+.portfolio-navigation .nav-previous a:hover,
+.portfolio-navigation .nav-next a:hover,
+.project-nav-ajax nav.numeric-navigation .page-numbers.next,
+.project-nav-ajax nav.numeric-navigation .page-numbers.next span,
+.primary-mobile-nav ul.menu li.current-menu-item > a,
+.entry-meta a:hover,
+.entry-meta .meta.views:hover,
+.entry-meta .fa,
+.blog-wrapper .entry-footer a,
+.service:hover .service-title a,
+.single-service cite span,
+.metas i,
+.all-project ul.filter li.active,
+.all-project ul.filter li:hover,
+.all-project ul.filter li.active a,
+.all-project ul.filter li:hover a,
+.backtotop,
+.backtotop .fa,
+.backtotop:hover,
+.backtotop:hover .fa,
+.comment .comment-reply-link:hover,
+.widget_recent_comments li:hover > a,
+.widget_rss li:hover > a,
+.widget_categories li:hover,
+.widget_pages li:hover,
+.widget_archive li:hover,
+.widget_nav_menu li:hover,
+.widget_recent_entries li:hover,
+.widget_meta li:hover .widget_categories li:hover:after,
+.widget_pages li:hover:after,
+.widget_archive li:hover:after,
+.widget_nav_menu li:hover:after,
+.widget_recent_entries li:hover:after,
+.widget_meta li:hover:after,
+.widget_categories li:hover > a,
+.widget_pages li:hover > a,
+.widget_archive li:hover > a,
+.widget_nav_menu li:hover > a,
+.widget_recent_entries li:hover > a,
+.widget_meta li:hover > a,
+.widget_categories li:hover > a:before,
+.widget_pages li:hover > a:before,
+.widget_archive li:hover > a:before,
+.widget_nav_menu li:hover > a:before,
+.widget_recent_entries li:hover > a:before,
+.widget_meta li:hover > a:before,
+.popular-posts-widget i,
+.widget-about a:hover,
+.recent-post .icon,
+.popular-post .post-text .post-date i,
+.service-sidebar .side-contact i,
+.cargohub-social-links-widget a:hover,
+.site-footer .footer-copyright a,
+.footer-widgets .menu li:hover a,
+.latest-post .post-date,
+.footer-menu ul li a:hover,
+.contact-widget .contact i,
+.footer-contact .ft-contact i,
+.fh-icon-box:hover h4 a,
+.fh-icon-box:hover .fh-icon,
+.fh-icon-box.style-3 .fh-icon,
+.fh-icon-box.style-3 .img-icon,
+.fh-feature-box .chars,
+.fh-service-box.style-1:hover .fh-icon,
+.fh-service-box.style-1:hover .img-icon,
+.fh-service-box.style-1:hover i,
+.fh-service-box.style-2:hover h4,
+.fh-service-box.style-2:hover h4 a,
+.fh-service-box.style-2:hover .fh-icon,
+.fh-service-box.style-2:hover i,
+.fh-service-box-2 .fh-icon,
+.fh-contact-box i,
+.fh-project .item-project .project-summary .project-cat,
+.fh-project .item-project .project-summary .project-cat a,
+.fh-project.style-2 ul.filter li.active,
+.fh-project.style-2 ul.filter li:hover,
+.fh-project.style-3 ul.filter li.active,
+.fh-project.style-3 ul.filter li:hover,
+.fh-latest-post .item-latest-post .entry-footer a,
+.fh-testimonials .testi-job,
+.fh-testimonials-carousel .owl-nav div:hover,
+.fh-service .read-more,
+.fh-service .service-content:hover h2,
+.fh-service .service-content:hover h2 a,
+.fh-team .team-member .job,
+.custom-quote blockquote:before,
+.custom-quote blockquote a,
+.cargo-office-location-widget .current-office:after,
+.cargo-office-location-widget .topbar-office li i,
+.blog-wrapper.sticky .entry-title:before,
+.cargo-contact-widget i {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.fh-accordion.style-2.vc_tta-accordion .vc_tta-panel-title a:hover,
+.fh-accordion.style-2.vc_tta-accordion .vc_tta-panel-title a:hover i,
+.fh-accordion.style-2.vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title a,
+.fh-accordion.style-2.vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title a i {
+    color: #222831!important;
+}
+
+.scroll-to-top {
+    border: 3px solid #010101;
+}
+
+    .scroll-to-top .fa {
+        color: #0a0a0a;
+    }
+
+
+/* ------------------- Secondary color -------------------- */
+
+
+/*Background Color: */
+
+.sub-background-color,
+.topbar,
+.nav li li:hover,
+.header-v3 .site-menu,
+.header-v4 .site-menu,
+.fh-service-box-2.box-style-2 .box-header .fh-icon,
+.fh-price-table .table-header,
+.project-wrapper .project-thumbnail .pro-link,
+.single-post .entry-thumbnail:before,
+.blog-wrapper .entry-thumbnail a:before,
+.service .service-thumbnail a:before,
+.fh-latest-post .item-latest-post .entry-thumbnail a:before,
+.fh-service .entry-thumbnail .link,
+.fh-team .team-member .team-header:before,
+.fh-icon-box.version-light:before,
+.fh-btn-2,
+.fh-testimonials-carousel .testi-wrapper {
+    background-color: #5c5c5d;
+}
+
+
+/*Color: */
+
+.nav ul.menu > li:hover > a,
+.nav ul.menu > li.current-menu-item > a,
+.nav ul.menu > li.current-menu-parent > a,
+.nav ul.menu > li.current_page_item > a,
+.nav ul.menu > li.active > a {
+    color: #ffffff;
+    background: #31304D;
+}
+
+.header-sticky .site-header.minimized .nav .menu > li:hover > a,
+.header-sticky .site-header.minimized .nav .menu > li.current-menu-item > a,
+.header-sticky .site-header.minimized .nav .menu > li.active > a {
+    color: #ffffff;
+}
+
+.sub-color,
+.fh-icon-box .fh-icon,
+.fh-icon-box.style-2 .fh-icon,
+.fh-service-box.style-2 i,
+.fh-service-box-2.box-style-2 .read-more {
+    color: #1F4172;
+}
+
+.fh-latest-post .item-latest-post .entry-thumbnail a,
+.fh-service-box.style-1 .fh-service-box.style-1 a {
+    cursor: url(../images/cursor.png), auto;
+}
+
+.fh-latest-post.carousel .owl-nav div,
+.fh-team .owl-carousel .owl-nav div,
+.fh-icon-box,
+.fh-icon-box a {
+    cursor: url(../images/cursor2.png), auto;
+}

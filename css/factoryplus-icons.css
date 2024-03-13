@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'factoryplus';
+  src:  url('../factoryplusb1ed.html');
+  src:  url('../factoryplusb1ed.html#iefix') format('embedded-opentype'),
+  url('../fonts/factoryplusb1ed.ttf') format('truetype'),
+  url('../factoryplusb1ed-2.html') format('woff'),
+  url('../factoryplusb1ed-3.html#factoryplus') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="factory-"], [class*=" factory-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'factoryplus' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.factory-cogs-on-wheels-interface-symbol-for-settings-edition-button:before {
+  content: "\e91a";
+}
+.factory-folder:before {
+  content: "\e91b";
+}
+.factory-interface:before {
+  content: "\e91c";
+}
+.factory-mill:before {
+  content: "\e91d";
+}
+.factory-nature:before {
+  content: "\e91e";
+}
+.factory-left-quotes-sign:before {
+  content: "\e914";
+}
+.factory-mechanic:before {
+  content: "\e915";
+}
+.factory-quality:before {
+  content: "\e916";
+}
+.factory-science:before {
+  content: "\e917";
+}
+.factory-tool:before {
+  content: "\e918";
+}
+.factory-wrench:before {
+  content: "\e919";
+}
+.factory-badge:before {
+  content: "\e900";
+}
+.factory-business:before {
+  content: "\e901";
+}
+.factory-check:before {
+  content: "\e902";
+}
+.factory-cogwheel:before {
+  content: "\e903";
+}
+.factory-internet:before {
+  content: "\e904";
+}
+.factory-layers:before {
+  content: "\e905";
+}
+.factory-leaf:before {
+  content: "\e906";
+}
+.factory-link:before {
+  content: "\e907";
+}
+.factory-motor:before {
+  content: "\e908";
+}
+.factory-people:before {
+  content: "\e909";
+}
+.factory-people-1:before {
+  content: "\e90a";
+}
+.factory-power:before {
+  content: "\e90b";
+}
+.factory-science2:before {
+  content: "\e90c";
+}
+.factory-technology:before {
+  content: "\e90d";
+}
+.factory-technology-1:before {
+  content: "\e90e";
+}
+.factory-technology-2:before {
+  content: "\e90f";
+}
+.factory-text:before {
+  content: "\e910";
+}
+.factory-tool2:before {
+  content: "\e911";
+}
+.factory-travel:before {
+  content: "\e912";
+}
+.factory-wall-clock:before {
+  content: "\e913";
+}
